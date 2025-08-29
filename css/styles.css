@@ -29,9 +29,7 @@
  }
 
 
-.logo-part {
-    color: #2e2f42;
-}
+
  .header-logo .logo-part {
      color:#2e2f42;
  }
@@ -159,9 +157,12 @@ color: #434455;
      color: #4d5ae5;
      text-decoration: none;
       }
-.logo-part {
-color: #f4f4fd;
-          }
+.header-logo {
+    background-color: #FFFFFF;
+}
+ .header-logo .logo-part {
+ color: #2e2f42;
+                }
  .footer-text {
     line-height: 1.5;
     letter-spacing: 0.02em;
