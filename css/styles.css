@@ -27,9 +27,14 @@
      color: #4d5ae5;
         text-decoration: none;
  }
+
+
 .logo-part {
     color: #2e2f42;
 }
+ .header-logo .logo-part {
+     color: #fff;
+ }
  
  .footer-logo .logo-part {
      color: #2e2f42
@@ -43,7 +48,7 @@
         line-height: 1.07143;
         letter-spacing: 0.02em;
         text-align: center;
-        color: #fff;
+        color:#ffffff;
 }
 .order-btn:hover,
 .order-btn:focus {
@@ -67,7 +72,6 @@ background-color: #4D5AE5;
   color: #2e2f42;
 }
 
-/* Текст у пунктах списку */
 .feature-text {
   font-size: 16px;
   line-height: 1.5;
@@ -90,6 +94,9 @@ background-color: #4D5AE5;
      color: #434455;
  }
 
+ .team-section {
+     background-color: #F4F4FD;
+ }
  .section-title {
 font-size: 36px;
 line-height: 1.11;
@@ -139,10 +146,7 @@ color: #434455;
      color: #404bbf;
  }
 
- .page-header {
-     background-color: #2e2f42;
- }
-.page-footer {
+ .page-footer {
      background-color: #2e2f42;
  }
  .footer-logo {
